@@ -6,7 +6,7 @@
 * 提供WebApp教學使用，說明下列概念：
   * 乾淨架構：Clean WebApp
   * 控制反轉：Inversion of Control
-  * 依賴注入：Dependency Inkection  
+  * 依賴注入：Dependency Injection  
 * 依據Clean WebApp架構，分別提供下列層次功能：
   * L5.操作介面：網頁介面
   * L4.操作服務：網頁介面功能
